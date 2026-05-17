@@ -13,7 +13,7 @@
 
 **A production-grade, full-stack travel accommodation platform — built from scratch, deployed with purpose.**
 
-[🔗 Live Demo](#) · [🐛 Report Bug](https://github.com/Abhishek-Maurya-D/WanderLust/issues) · [💡 Request Feature](https://github.com/Abhishek-Maurya-D/WanderLust/issues)
+[🔗 Live Demo](https://wanderlust-31rm.onrender.com/listings) · [🐛 Report Bug](https://github.com/Abhishek-Maurya-D/WanderLust/issues) · [💡 Request Feature](https://github.com/Abhishek-Maurya-D/WanderLust/issues)
 
 </div>
 
@@ -143,7 +143,7 @@ This is what **serious full-stack development** looks like.
 
 ## 📸 Screenshots
 
-> *(Add your app screenshots here — listings page, map view, listing detail, auth pages)*
+> *<img width="1366" height="686" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/de3d6653-daa3-4630-9ed7-7c2c4b4863e7" />*
 
 ---
 
@@ -152,7 +152,8 @@ This is what **serious full-stack development** looks like.
 Found something worth improving? PRs are welcome.
 
 ```bash
-git checkout -b feature/your-feature-name
+git checkout -b feature/your-feature-name<img width="1366" height="686" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/d16f6e1a-c4fd-4fb1-a004-5ae117177acd" />
+
 git commit -m "feat: add your feature"
 git push origin feature/your-feature-name
 ```
